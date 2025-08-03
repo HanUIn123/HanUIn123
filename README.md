@@ -34,25 +34,12 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/HanUIn123/CoreKeeper_-_CopyGame">
-        <img src="https://raw.githubusercontent.com/HanUIn123/CoreKeeper_-_CopyGame/main/Images/CoreKeeper_Thumbnail.png" width="280"/><br/>
-        <b>🌍 CoreKeeper 클론</b><br/>
-        개인 프로젝트<br/>
-        <sub>보스전 및 파티클 연출</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/CoreKeeper">
         <img src="https://raw.githubusercontent.com/HanUIn123/CoreKeeper/main/CoreKeeper_Thumbnail.png" width="280"/><br/>
-        <b>🧱 CoreKeeper 팀 프로젝트</b><br/>
-        DirectX9 기반 시스템 구현<br/>
-        <sub>아이템 / UI / 전투 로직 등 구현</sub>
+        <b>🧱 CoreKeeper</b><br/>
+        DirectX9 팀 프로젝트<br/>
+        <sub>전투, UI, 아이템 시스템 등 구현</sub>
       </a>
-    </td>
-    <td align="center" style="padding: 10px; color: gray;">
-      <i>더 많은 프로젝트가 추가될 예정입니다...</i>
     </td>
   </tr>
 </table>
