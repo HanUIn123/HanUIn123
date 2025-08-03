@@ -41,14 +41,15 @@
         <sub>전투, UI, 아이템 시스템 등 구현</sub>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/HanUIn123/RoboQuest">
-        <img src="https://raw.githubusercontent.com/HanUIn123/RoboQuest/main/Images/RoboQuest_Thumbnail.png" width="280"/><br/>
-        <b>🤖 RoboQuest</b><br/>
-        DirectX11 개인 프로젝트<br/>
-        <sub>렌더링, 충돌, 연출, 이펙트 등 시스템 구현</sub>
-      </a>
-    </td>
+ <td align="center" style="padding: 10px;">
+  <a href="https://github.com/HanUIn123/RoboQuest">
+    <img src="https://raw.githubusercontent.com/HanUIn123/RoboQuest/main/RoboQuest_ThumbNail.png" width="280"/><br/>
+    <b>🤖 RoboQuest</b><br/>
+    DirectX11 개인 프로젝트<br/>
+    <sub>렌더링, 충돌, 연출, 이펙트 등 시스템 구현</sub>
+  </a>
+</td>
+
   </tr>
 </table>
 
