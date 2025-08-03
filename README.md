@@ -8,14 +8,6 @@
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/HanUIn123/SnowBrothers2">
-        <img src="https://raw.githubusercontent.com/HanUIn123/SnowBrothers2/main/Images/SnowBrothers.png" width="280"/><br/>
-        <b>🎮 SnowBrothers2</b><br/>
-        Windows API 기반 2D 게임<br/>
-        <sub>오락실 게임 '스노우브라더스2' 모작</sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/Thymesia">
         <img src="https://raw.githubusercontent.com/HanUIn123/Thymesia/main/Thymesia_Thumnail.png" width="280"/><br/>
         <b>⚔️ Thymesia</b><br/>
@@ -23,8 +15,6 @@
         <sub>보스 연출 + 파편 시스템 구현</sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/Thymesia_MapTool">
         <img src="https://raw.githubusercontent.com/HanUIn123/Thymesia_MapTool/main/MapTool_Thumbnail.png" width="280"/><br/>
@@ -34,6 +24,16 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/HanUIn123/RoboQuest">
+        <img src="https://raw.githubusercontent.com/HanUIn123/RoboQuest/main/RoboQuest_ThumbNail.png" width="280"/><br/>
+        <b>🤖 RoboQuest</b><br/>
+        DirectX11 개인 프로젝트<br/>
+        <sub>렌더링, 충돌, 연출, 이펙트 등 시스템 구현</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/CoreKeeper">
         <img src="https://github.com/HanUIn123/CoreKeeper-_-CopyGame/blob/main/CoreKeeper_Thumbnail.png?raw=true" width="280"/><br/>
         <b>🧱 CoreKeeper</b><br/>
@@ -41,15 +41,14 @@
         <sub>전투, UI, 아이템 시스템 등 구현</sub>
       </a>
     </td>
- <td align="center" style="padding: 10px;">
-  <a href="https://github.com/HanUIn123/RoboQuest">
-    <img src="https://raw.githubusercontent.com/HanUIn123/RoboQuest/main/RoboQuest_ThumbNail.png" width="280"/><br/>
-    <b>🤖 RoboQuest</b><br/>
-    DirectX11 개인 프로젝트<br/>
-    <sub>렌더링, 충돌, 연출, 이펙트 등 시스템 구현</sub>
-  </a>
-</td>
-
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/HanUIn123/SnowBrothers2">
+        <img src="https://raw.githubusercontent.com/HanUIn123/SnowBrothers2/main/Images/SnowBrothers.png" width="280"/><br/>
+        <b>🎮 SnowBrothers2</b><br/>
+        Windows API 기반 2D 게임<br/>
+        <sub>오락실 게임 '스노우브라더스2' 모작</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
