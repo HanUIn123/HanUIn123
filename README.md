@@ -18,7 +18,7 @@
 ## ⚔️ Thymesia (팀 프로젝트 / DirectX11)
 [GitHub 바로가기](https://github.com/HanUIn123/Thymesia)
 
-![Thymesia](https://raw.githubusercontent.com/HanUIn123/Thymesia/main/Images/Thymesia.png)
+![Thymesia](https://raw.githubusercontent.com/HanUIn123/Thymesia/main/Images/Thymesia_Thumbnail.png)
 
 - DirectX11 기반 팀 프로젝트  
 - 맵툴 + 보스 연출 + 파편 연출 구현
