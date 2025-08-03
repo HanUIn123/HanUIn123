@@ -35,7 +35,7 @@
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/CoreKeeper">
-        <img src="https://raw.githubusercontent.com/HanUIn123/CoreKeeper_-_CopyGame/main/CoreKeeper_Thumbnail.png" width="280"/><br/>
+        <img src="https://github.com/HanUIn123/CoreKeeper-_-CopyGame/blob/main/CoreKeeper_Thumbnail.png?raw=true" width="280"/><br/>
         <b>🧱 CoreKeeper</b><br/>
         DirectX9 팀 프로젝트<br/>
         <sub>전투, UI, 아이템 시스템 등 구현</sub>
