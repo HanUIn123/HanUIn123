@@ -39,6 +39,14 @@
         <b>🧱 CoreKeeper</b><br/>
         DirectX9 팀 프로젝트<br/>
         <sub>전투, UI, 아이템 시스템 등 구현</sub>
+         </a>
+         </td>
+            <td align="center" style="padding: 10px;">
+      <a href="https://github.com/HanUIn123/Thymesia_MapTool">
+        <img src="https://raw.githubusercontent.com/HanUIn123/Thymesia_MapTool/main/MapTool_Thumbnail.png" width="280"/><br/>
+        <b>🛠️ Thymesia MapTool</b><br/>
+        맵툴 시스템 구현<br/>
+        <sub>DirectX11 기반 에디터</sub>
       </a>
     </td>
   </tr>
