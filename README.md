@@ -46,6 +46,12 @@
 
 ---
 
+## 🧠 Solved.ac (백준 티어)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksyy12345)](https://solved.ac/profile/gksyy12345)
+
+---
+
 ## 📫 Contact
 - Email: your_email@example.com  
 - Blog or Notion: https://yourblog.notion.site
