@@ -62,5 +62,6 @@
 
 ## 📫 Contact
 
-- **Email**: your_email@example.com  
-- **Blog / Notion**: [https://yourblog.notion.site](https://yourblog.notion.site)
+- **Email**: [gksyy3232@gmail.com](mailto:gksyy3232@gmail.com)
+- **Blog / Notion**: [Notion](https://www.notion.so/GAME-PROGRAMMING-Notion-226fe0424e1780f1a7d9f252a5c4dafa)
+
