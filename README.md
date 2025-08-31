@@ -50,7 +50,7 @@
       </a>
     </td>
 <td align="center" style="padding: 10px;">
-  <a href="https://github.com/HanUlIn123/MultiShootingGame">
+  <a href="https://github.com/HanUIn123/MultiShootingGame">
     <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/ThumNail.png?raw=true" width="280"/><br/>
     <b>🚀 MultiShooting</b><br/>
     Unity 기반 멀티 슈팅 게임<br/>
