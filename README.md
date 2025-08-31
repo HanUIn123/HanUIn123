@@ -50,6 +50,15 @@
       </a>
     </td>
   </tr>
+  <td align="center" style="padding: 10px;">
+  <a href="https://github.com/HanUIn123/Unity_MultiShooting">
+    <img src="https://raw.githubusercontent.com/HanUIn123/Unity_MultiShooting/main/ThumNail.png" width="280"/><br/>
+    <b>🚀 MultiShooting</b><br/>
+    Unity 기반 멀티 슈팅 게임<br/>
+    <sub>PUN2 기반 멀티플레이어, 보스전, 필살기 구현</sub>
+  </a>
+</td>
+
 </table>
 
 ---
