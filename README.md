@@ -10,7 +10,7 @@
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/Thymesia">
         <img src="https://raw.githubusercontent.com/HanUIn123/Thymesia/main/Thymesia_Thumnail.png" width="280"/><br/>
-        <b>⚔️ Thymesia</b><br/>
+        <b> Thymesia</b><br/>
         DirectX11 팀 프로젝트<br/>
         <sub>보스 연출 + 파편 시스템 구현</sub>
       </a>
@@ -18,7 +18,7 @@
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/Thymesia_MapTool">
         <img src="https://raw.githubusercontent.com/HanUIn123/Thymesia_MapTool/main/MapTool_Thumbnail.png" width="280"/><br/>
-        <b>🛠️ Thymesia MapTool</b><br/>
+        <b> Thymesia MapTool</b><br/>
         맵툴 시스템 구현<br/>
         <sub>DirectX11 기반 에디터</sub>
       </a>
@@ -26,7 +26,7 @@
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/RoboQuest">
         <img src="https://raw.githubusercontent.com/HanUIn123/RoboQuest/main/RoboQuest_ThumbNail.png" width="280"/><br/>
-        <b>🤖 RoboQuest</b><br/>
+        <b> RoboQuest</b><br/>
         DirectX11 개인 프로젝트<br/>
         <sub>렌더링, 충돌, 연출, 이펙트 등 시스템 구현</sub>
       </a>
@@ -36,7 +36,7 @@
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/CoreKeeper">
         <img src="https://github.com/HanUIn123/CoreKeeper-_-CopyGame/blob/main/CoreKeeper_Thumbnail.png?raw=true" width="280"/><br/>
-        <b>🧱 CoreKeeper</b><br/>
+        <b> CoreKeeper</b><br/>
         DirectX9 팀 프로젝트<br/>
         <sub>전투, UI, 아이템 시스템 등 구현</sub>
       </a>
@@ -52,7 +52,7 @@
 <td align="center" style="padding: 10px;">
   <a href="https://github.com/HanUIn123/MultiShootingGame">
     <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/Images/ThumNail.png" width="280"/><br/>
-    <b>🚀 MultiShooting</b><br/>
+    <b> MultiShooting</b><br/>
     Unity 기반 멀티 슈팅 게임<br/>
     <sub>PUN2 기반 멀티플레이어, 보스전, 필살기 구현</sub>
   </a>
@@ -63,13 +63,13 @@
 
 ---
 
-## 🧠 Solved.ac (백준 티어)
+##  Solved.ac (백준 티어)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gksyy12345)](https://solved.ac/profile/gksyy12345)
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - **Email**: [gksyy3232@gmail.com](mailto:gksyy3232@gmail.com)
 - **Blog / Notion**: [Notion](https://www.notion.so/GAME-PROGRAMMING-Notion-226fe0424e1780f1a7d9f252a5c4dafa)
