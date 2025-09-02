@@ -12,7 +12,7 @@
         <img src="https://raw.githubusercontent.com/HanUIn123/Thymesia/main/Thymesia_Thumnail.png" width="280"/><br/>
         <b> Thymesia</b><br/>
         DirectX11 팀 프로젝트<br/>
-        <sub>보스 연출 + 파편 시스템 구현</sub>
+   
       </a>
     </td>
     <td align="center" style="padding: 10px;">
