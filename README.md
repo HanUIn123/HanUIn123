@@ -11,7 +11,7 @@
       <a href="https://github.com/HanUIn123/MultiShootingGame">
         <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/Images/ThumNail.png" width="280" height="160" style="object-fit: cover;"/><br/>
         <b> MultiShooting</b><br/>
-        Unity 기반 멀티 슈팅 게임<br/>
+        Unity_PUN2 개인 프로젝트<br/>
         <sub>2D Unity / PUN2 기반 'Multi_Shooting' 창작</sub>
       </a>
     </td>
@@ -53,7 +53,7 @@
       <a href="https://github.com/HanUIn123/SnowBrothers2">
         <img src="https://raw.githubusercontent.com/HanUIn123/SnowBrothers2/main/Images/SnowBrothers.png" width="280" height="160" style="object-fit: cover;"/><br/>
         <b> SnowBrothers2</b><br/>
-        Windows API 기반 2D 게임<br/>
+        Windows API 개인 프로젝트<br/>
         <sub>2D 오락실 고전 게임류 '스노우브라더스2' 모작</sub>
       </a>
     </td>
