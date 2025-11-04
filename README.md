@@ -9,7 +9,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/HanUIn123/MultiShootingGame">
-        <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/Images/ThumNail.png" width="280" height="160" style="object-fit: cover;"/><br/>
+        <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/Images/ThumNail2.png" width="280" height="160" style="object-fit: cover;"/><br/>
         <b> MultiShooting</b><br/>
         Unity_PUN2 개인 프로젝트<br/>
         <sub>2D Unity / PUN2 기반 'Multi_Shooting' 창작</sub>
