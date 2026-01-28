@@ -5,7 +5,7 @@
   <tr>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/HanUIn123/MultiShootingGame">
-        <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/Images/ThumNail2.png" width="280" height="160" style="object-fit: cover; display: block; margin: 0 auto; border-radius: 8px;"/><br/>
+        <img src="https://raw.githubusercontent.com/HanUIn123/MultiShootingGame/main/newThumnail.png" width="280" height="160" style="object-fit: cover; display: block; margin: 0 auto; border-radius: 8px;"/><br/>
         <b>MultiShooting</b><br/>
         <sub>Unity_PUN2 개인 프로젝트</sub><br/>
         <sub>2D Unity / PUN2 기반 'Multi_Shooting' 창작</sub>
